@@ -33,5 +33,5 @@ Voici quelque image du jeux.
 
 <div align="center">
 	<img src="./screen/tuto1.png" width="30%" />
-	<img src="./screen/tuto2" width="30%" />
+	<img src="./screen/tuto2.png" width="30%" />
 </div>
