@@ -2,7 +2,7 @@
 
 ---
 
-### C'est un jeu a boire auquel on joue avec mes amis depuis notre adolescence,je l'ai adapter en application pour Telephone android.
+### C'est un jeu auquel on joue avec mes amis depuis notre adolescence,je l'ai adapter en application pour Telephone android.
 
 Ceci est le repo public du projet, ou vous pouvez télécharger les differente version du jeux.
 Je le mettrais à jour au fur et a mesure de sont developpement, jusqu'à sa sortie sur le PlayStore.
