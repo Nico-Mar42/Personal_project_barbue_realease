@@ -21,7 +21,7 @@ Voici quelque image du jeux.
 <div align="center">
 	<img src="./screen/dark_accueil.png" width="30%" />
 	<img src="./screen/dark_settings.png" width="30%" />
-	<img src="./screen/dark_black.png" width="30%" />
+	<img src="./screen/dark_red.png" width="30%" />
 	<img src="./screen/dark_rules.png" width="30%" />
 	<img src="./screen/dark_end_game.png" width="30%" />
 </div>
