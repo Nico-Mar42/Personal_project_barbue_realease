@@ -10,9 +10,18 @@ Un tuto pour télécharger le jeux est disponible plus bas.
 
 Voici quelque image du jeux.
 <div align="center">
-	<img src="./screen/module 1/screen module 1 1.png" width="30%" />
-	<img src="./screen/module 1/screen module 1 2.png" width="30%" />
-	<img src="./screen/module 1/screen module 1 3.png" width="30%" />
-	<img src="./screen/module 1/screen module 1 3.png" width="30%" />
-	<img src="./screen/module 1/screen module 1 3.png" width="30%" />
+	<img src="./screen/light_accueil.png" width="30%" />
+	<img src="./screen/light_settings.png" width="30%" />
+	<img src="./screen/light_black.png" width="30%" />
+	<img src="./screen/light_rules.png" width="30%" />
+	<img src="./screen/light_end_game.png" width="30%" />
+</div>
+
+
+<div align="center">
+	<img src="./screen/dark_accueil.png" width="30%" />
+	<img src="./screen/dark_settings.png" width="30%" />
+	<img src="./screen/dark_black.png" width="30%" />
+	<img src="./screen/dark_rules.png" width="30%" />
+	<img src="./screen/dark_end_game.png" width="30%" />
 </div>
