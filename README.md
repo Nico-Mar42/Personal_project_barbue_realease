@@ -2,7 +2,7 @@
 
 ---
 
-###C'est un jeu a boire auquel on joue avec mes amis depuis notre adolescence,je l'ai adapter en application pour Telephone android.
+### C'est un jeu a boire auquel on joue avec mes amis depuis notre adolescence,je l'ai adapter en application pour Telephone android.
 
 Ceci est le repo public du projet, ou vous pouvez télécharger les differente version du jeux.
 Je le mettrais à jour au fur et a mesure de sont developpement, jusqu'à sa sortie sur le PlayStore.
@@ -29,13 +29,13 @@ Voici quelque image du jeux.
 
 ## Télecharger l'app
 
-###Pour télécharger l'app cliquer d'abord sur la derniére release (cf image 1), puis cliquer sur le nom de la release (cf image 2).
+### Pour télécharger l'app cliquer d'abord sur la derniére release (cf image 1), puis cliquer sur le nom de la release (cf image 2).
 
 <div align="center">
 	<img src="./screen/tuto1.png" width="45%" />
 	<img src="./screen/tuto2.png" width="45%" />
 </div>
 
-###Puis installer le sur votre téléphone, si besoin il faudra autorisé les app exterieur.
+### Puis installer le sur votre téléphone, si besoin il faudra autorisé les app exterieur.
 
-#Enjoy
+# Enjoy
