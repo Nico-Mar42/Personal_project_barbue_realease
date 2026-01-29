@@ -25,3 +25,13 @@ Voici quelque image du jeux.
 	<img src="./screen/dark_rules.png" width="30%" />
 	<img src="./screen/dark_end_game.png" width="30%" />
 </div>
+
+
+## Télecharger l'app
+
+###Pour télécharger l'app cliquer d'abord sur la derniére release (cf image 1), puis cliquer sur le nom de la release (cf image 2).
+
+<div align="center">
+	<img src="./screen/tuto1.png" width="30%" />
+	<img src="./screen/tuto2" width="30%" />
+</div>
