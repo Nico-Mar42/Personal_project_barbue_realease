@@ -32,6 +32,10 @@ Voici quelque image du jeux.
 ###Pour télécharger l'app cliquer d'abord sur la derniére release (cf image 1), puis cliquer sur le nom de la release (cf image 2).
 
 <div align="center">
-	<img src="./screen/tuto1.png" width="60%" />
-	<img src="./screen/tuto2.png" width="60%" />
+	<img src="./screen/tuto1.png" width="45%" />
+	<img src="./screen/tuto2.png" width="45%" />
 </div>
+
+###Puis installer le sur votre téléphone, si besoin il faudra autorisé les app exterieur.
+
+#Enjoy
